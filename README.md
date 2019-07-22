@@ -5,6 +5,7 @@
 * goto [Play with kubernetes](https://labs.play-with-k8s.com/)
 * git clone https://github.com/agilesolutions/jenkins-shared-libraries.git
 * run scripts/install-helm.sh
+* wait till tiller is up and running -> kubectl get pods -w -n kube-system
 * run scripts/install-jenkins.sh
 
 ## Installing jenkins from HELM
