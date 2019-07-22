@@ -1,5 +1,10 @@
 # Jenkins Kubernetes plugin shared library
 
+## install HELM
+
+* goto [Play with kubernetes](https://labs.play-with-k8s.com/)
+* run scripts/install-helm.sh
+
 ## Installing jenkins from HELM
 
 ```
