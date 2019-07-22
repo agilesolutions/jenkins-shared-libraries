@@ -3,6 +3,7 @@
 ## install HELM
 
 * goto [Play with kubernetes](https://labs.play-with-k8s.com/)
+* git clone https://github.com/agilesolutions/jenkins-shared-libraries.git
 * run scripts/install-helm.sh
 * run scripts/install-jenkins.sh
 
