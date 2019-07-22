@@ -1,3 +1,4 @@
+#!/bin/bash
 Helm install stable/jenkins \
     --name jenkins \
     --namespace jenkins \
