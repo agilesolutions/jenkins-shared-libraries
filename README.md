@@ -16,6 +16,15 @@ Helm install stable/jenkins \
     --set Master.HostName=$HOST
 ```
 
+## some tests
+
+* kubectl -n jenkins rollout status deployment jenkins 
+* helm get values jenkins
+* helm inspect values stable/jenkins
+* 
+* 
+* 
+
 ## Global Pipeline Libraries
 
 ---
