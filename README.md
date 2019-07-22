@@ -10,7 +10,7 @@
 ## Installing jenkins from HELM
 
 ```
-Helm install stable/jenkins \
+helm install stable/jenkins \
     --name jenkins \
     --namespace jenkins \
     --values helm/jenkins-values.yml \
