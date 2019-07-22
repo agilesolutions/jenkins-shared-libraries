@@ -4,6 +4,7 @@
 
 * goto [Play with kubernetes](https://labs.play-with-k8s.com/)
 * run scripts/install-helm.sh
+* run scripts/install-jenkins.sh
 
 ## Installing jenkins from HELM
 
