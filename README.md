@@ -3,6 +3,7 @@
 ## install HELM
 
 * goto [Play with kubernetes](https://labs.play-with-k8s.com/)
+* or goto [The katacoda k8s playground](https://www.katacoda.com/courses/kubernetes/playground)
 * git clone https://github.com/agilesolutions/jenkins-shared-libraries.git
 * run scripts/install-helm.sh
 * wait till tiller is up and running -> kubectl get pods -w -n kube-system
