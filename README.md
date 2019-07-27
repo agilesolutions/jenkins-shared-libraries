@@ -14,8 +14,7 @@
 helm install stable/jenkins \
     --name jenkins \
     --namespace jenkins \
-    --values helm/jenkins-values.yml \
-    --set Master.HostName=$HOST
+    --values helm/jenkins-values.yml
 ```
 
 ## some tests
